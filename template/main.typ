@@ -1,4 +1,4 @@
-#import "@local/tuhi-assessment-vuw:0.2.0": *
+#import "@preview/tuhi-assessment-vuw:0.2.0": *
 
 #let (answer,) = setup(visible: true)
 // #let (answer,) = setup(visible: false)
